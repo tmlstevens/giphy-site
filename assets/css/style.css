@@ -1,0 +1,25 @@
+body    {
+}
+
+#mainDiv {
+    width: 70vw;
+    margin-right: 15vw;
+    margin-left: 15vw;
+    background-color: lightskyblue;
+}
+
+.imagesDivDiv   {
+    margin-bottom: 2rem;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+button {
+    color: red;
+}
+
+p   {
+    margin-top: 0.5rem;
+}
+
+
